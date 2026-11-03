@@ -1,3 +1,5 @@
+![testing-web](assets/icons/testing-web/png/testing-web-128.png)
+
 # testing-web
 
 The page of testing-desktop as a single HTML file that Chrome opens
