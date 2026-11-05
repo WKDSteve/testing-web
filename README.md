@@ -27,7 +27,7 @@ git clone https://github.com/WKDSteve/testing-web.git
    - Linux, macOS, Git Bash: `sha256sum -c SHA256SUMS` must print `testing.html: OK`.
 2. Open `file:///C:/repos/testing-web/testing.html` in Chrome (adjust the path) and bookmark it. That bookmark is the
    way to start the page; there is no start script.
-3. Pick the export folder. After a restart of Chrome the page shows the folder used last: allow access once (no
+3. Pick the export folder (a folder `testing export --out` wrote; `git pull` where you keep it brings a newer one). After a restart of Chrome the page shows the folder used last: allow access once (no
    picker).
 4. The page reads the folder again when the tab gets focus, or within 30 seconds. It never writes into it.
 
