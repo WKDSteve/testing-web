@@ -13,7 +13,8 @@ export folder is written by testing.nvim and kept in a separate place.
 
 ## Status
 
-Not built yet. `testing.html` and `SHA256SUMS` appear here with the first release of testing-desktop.
+Built from testing-desktop by its workflow `web.yml`, on a tag and by hand. Early development: testing-desktop has no
+release yet.
 
 ## Use
 
