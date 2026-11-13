@@ -36,3 +36,13 @@ old as the last export. Links to CI runs open GitHub in a new tab; that is a pla
 
 Every local HTML file in Chrome shares the origin `file://`, so open no other local page you do not trust in the same
 profile.
+
+<!-- connections:begin (written by the app-icons tool of the workshop; change integrations.json there, not this block) -->
+## Connections
+
+![testing-web: what it uses and what uses it](assets/graphs/testing-web.png)
+
+**Used by**
+
+- [testing-desktop](https://github.com/WKDSteve/testing-desktop): The web workflow of testing-desktop builds the page as one HTML file, tests it and publishes it to the repository testing-web. ([picture](assets/graphs/pair/testing-desktop--testing-web.png))
+<!-- connections:end -->
