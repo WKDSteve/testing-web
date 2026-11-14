@@ -44,5 +44,6 @@ profile.
 
 **Used by**
 
+- [hub-desktop](https://github.com/WKDSteve/hub-desktop): The hub opens the web form of testing from a local clone of testing-web, served on 127.0.0.1, and pulls the clone to keep it current. ([picture](assets/graphs/pair/hub-desktop--testing-web.png))
 - [testing-desktop](https://github.com/WKDSteve/testing-desktop): The web workflow of testing-desktop builds the page as one HTML file, tests it and publishes it to the repository testing-web. ([picture](assets/graphs/pair/testing-desktop--testing-web.png))
 <!-- connections:end -->
